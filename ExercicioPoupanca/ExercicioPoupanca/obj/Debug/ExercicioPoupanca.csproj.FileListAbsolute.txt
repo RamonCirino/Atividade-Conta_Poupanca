@@ -1,0 +1,7 @@
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\bin\Debug\ExercicioPoupanca.exe.config
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\bin\Debug\ExercicioPoupanca.exe
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\bin\Debug\ExercicioPoupanca.pdb
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\obj\Debug\ExercicioPoupanca.csprojAssemblyReference.cache
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\obj\Debug\ExercicioPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\obj\Debug\ExercicioPoupanca.exe
+C:\Users\Ramon Cirino\source\repos\ExercicioPoupanca\ExercicioPoupanca\obj\Debug\ExercicioPoupanca.pdb
